@@ -15,5 +15,5 @@ This is a repository containing a simplified MIPS assembler, implemented in pyth
 
     ![image](https://user-images.githubusercontent.com/31697036/232127212-76f1bb83-953c-4731-ad46-0e010e14fca2.png)
 
-# Contributions:
+# Contributions
 Contributions to this repository are welcome! Feel free to fork the repository, make modifications, and submit pull requests to improve the code or add new features.
