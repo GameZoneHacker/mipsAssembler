@@ -4,13 +4,13 @@ This is a repository containing a simplified MIPS assembler, implemented in pyth
 # Working
 1. Go to dist folder.
 
-2. Edit test.asm with your  instructions.
+2. Edit test.asm or create a .asm file with your instructions.
 
     ![image](https://user-images.githubusercontent.com/31697036/232126787-18da4f88-f691-45dd-95aa-50f675c40563.png)
 
 
 4. Open cmd in the same folder
-6. Enter command: myAssembler test
+6. Enter command: myAssembler <filename without extension>
 8. Output will be generated in a text file
 
     ![image](https://user-images.githubusercontent.com/31697036/232127212-76f1bb83-953c-4731-ad46-0e010e14fca2.png)
